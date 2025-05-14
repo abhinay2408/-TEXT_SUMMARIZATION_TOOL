@@ -20,4 +20,5 @@ An example block is included in the main() function for testing. This example us
 This project is highly educational for beginners in NLP. It demonstrates key concepts like tokenization, stopword removal, frequency distribution, and sentence scoring. Moreover, it is implemented using only basic tools from NLTK and Python’s standard libraries, making it accessible and lightweight.
 In practical terms, such a summarizer can be integrated into news applications, document editors, chatbots, or digital assistants to enhance readability and save user time. Although simple, the frequency-based approach provides decent performance for general use and can serve as a foundation for more advanced NLP tasks involving semantic analysis or deep learning.**
 
-
+output:
+![Image](https://github.com/user-attachments/assets/f4cc6d01-89f1-4309-9543-69140c391823)
